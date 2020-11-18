@@ -1,0 +1,124 @@
+*{margin: 0; padding:0; font-family: cursive ;
+}
+header {
+    background-image: url(images_1.jfif);
+    height: 100vw;
+    
+    background-position: center;
+}
+.main{
+    background-color: rgba(72, 255, 0, 0.788);
+    height: 75px;
+    width: 100%;
+    position: fixed;
+   
+}
+ul{ 
+    list-style-type: none;
+    float: right; 
+    
+}
+ ul li {
+    display: inline-block;
+}
+.main li {
+    margin-top: 15px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #fff;
+    padding:5px 20px;
+   border: 2px ridge #fff;
+    justify-content: center;
+    
+    
+}
+.hell{
+    width:80%;
+    height:800px;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+.hello4{ 
+    padding: 20px;
+    border: 2px solid white;
+    background: tomato;
+    
+}
+
+.hello1{ margin-top: 8px;
+    display: inline-flex;
+    align-items: center;
+    border: 2px solid white;
+    padding: 2px;
+
+}
+.hello3{margin: 20px 40% ;
+    border: 2px solid black;
+}
+footer {
+    background-color: green;
+    height: 100px;
+    padding : 50px;  
+    
+}
+.bye{
+    margin-top: 8px;
+    
+    align-items: center;
+    float: left;
+    padding: 2px;
+}
+#gallery {
+    background-color: cornflowerblue;
+    padding-top: 6%;
+    width:100%;
+    height:1000px;
+    
+ 
+}
+#gallery img{
+    border: 5px groove rgb(241, 111, 111);
+    
+}
+.d{
+    margin: 60px;
+}
+.e{display:inline-block;
+    border: 2px solid white ;
+    margin-left: 45%;
+    justify-content: center;
+    text-decoration: underline;
+    
+    
+}
+#contact_us{
+    background-color: tomato;
+}
+.con{
+    padding:70px;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: lightblue;
+    justify-content: center;
+    border: 2px ridge black;
+    line-height: 40px;
+} 
+#submit{
+    color: blue;
+    font-size: 20px;
+    align-items: center;
+    line-height: 60px;
+}
+.yo{
+
+    width:80%;
+    height:100px;
+    margin: 0 45%;
+    padding-top: 5%;
+}
+.main li :hover{
+  font-size: larger;
+  background-color: yellow;
+
+
+}
